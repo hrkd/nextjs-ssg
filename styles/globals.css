@@ -24,3 +24,12 @@ a {
     background: black;
   }
 }
+
+img {
+  display: block;
+}
+
+div, ul, li, dl, dt, dd, p {
+  padding: 0;
+  margin: 0;
+}
